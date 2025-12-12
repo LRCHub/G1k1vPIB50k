@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Keep Together",
+  "base_artist": "Hunter Hunted",
+  "createdAt": "2025-12-12T13:12:02.664508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep Together",
+      "artist": "Hunter Hunted",
+      "has_synced": true,
+      "path": "select/01_Keep_Together_Hunter_Hunted.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Together",
+      "artist": "Hunter Hunted",
+      "has_synced": true,
+      "path": "select/02_Keep_Together_Hunter_Hunted.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Together",
+      "artist": "The Brand New Heavies",
+      "has_synced": true,
+      "path": "select/03_Keep_Together_The_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Together (2024 Remaster)",
+      "artist": "The Brand New Heavies",
+      "has_synced": false,
+      "path": "select/04_Keep_Together_(2024_Remaster)_The_Brand_New_Heavies.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Together (2024 Remaster)",
+      "artist": "The Brand New Heavies",
+      "has_synced": true,
+      "path": "select/05_Keep_Together_(2024_Remaster)_The_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep Together (Jan Kincaid Version)",
+      "artist": "Brand New Heavies",
+      "has_synced": true,
+      "path": "select/06_Keep_Together_(Jan_Kincaid_Version)_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Together",
+      "artist": "Hunter Hunted",
+      "has_synced": true,
+      "path": "select/07_Keep_Together_Hunter_Hunted.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Together (Jan Kincaid Versio",
+      "artist": "Brand New Heavies",
+      "has_synced": true,
+      "path": "select/08_Keep_Together_(Jan_Kincaid_Versio_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep Together",
+      "artist": "Brand New Heavies",
+      "has_synced": true,
+      "path": "select/09_Keep_Together_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Together (Jan Kincaid Version)",
+      "artist": "The Brand New Heavies",
+      "has_synced": true,
+      "path": "select/10_Keep_Together_(Jan_Kincaid_Version)_The_Brand_New_Heavies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep Together",
+      "artist": "Hunter Hunted",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_Together_Hunter_Hunted.txt"
+    }
+  ]
+}
